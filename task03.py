@@ -1,0 +1,7 @@
+file = open("Input/numbers.txt")
+content = file.read()
+numbers = list(map(int, content.split()))
+file.close()
+max_son = max(numbers)
+print(max_son)
+print(numbers)

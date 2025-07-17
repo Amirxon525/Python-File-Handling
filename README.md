@@ -8,6 +8,7 @@
 4. Fayldagi barcha juft sonlarni chiqaring.
 5. Fayldagi sonlar o‘rtachasini (average) hisoblang.
 
+
 ### 🔸 O‘rta
 
 6. Fayldagi barcha toq sonlarni yangi `odd_numbers.txt` fayliga yozing.
