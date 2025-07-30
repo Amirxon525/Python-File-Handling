@@ -9,4 +9,4 @@ oquvchilar = [
 jami_baho = sum(o['baho'] for o in oquvchilar)
 ortalacha = jami_baho / len(oquvchilar)
 
-print(f"Baholarning o‘rtachasi: {ortalacha:.2f}")
+print(f"Baholarning ortachasi: {ortalacha:.2f}")
